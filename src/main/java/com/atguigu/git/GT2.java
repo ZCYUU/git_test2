@@ -7,5 +7,6 @@ public class GT2 {
         System.out.println("hot-fix update1");
         System.out.println("master update12");
         System.out.println("hot-fix update2");
+        System.out.println("master update13");
     }
 }
